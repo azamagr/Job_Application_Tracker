@@ -106,7 +106,8 @@ git clone https://github.com/azamagr/job-application-tracker.git
 ```bash
 cd backend
 npm install
-npm start
+npm run seed
+npm run dev
 ```
 
 ---
@@ -176,8 +177,8 @@ http://localhost:5000
 
 Muhammad Azam
 
-- GitHub: https://github.com/azamagr
-- LinkedIn: https://linkedin.com/in/azamagr
+- GitHub: [https://github.com/azamagr](https://github.com/azamagr)
+- LinkedIn: [https://linkedin.com/in/azamagr](https://linkedin.com/in/azamagr)
 
 ---
 
