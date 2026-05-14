@@ -135,6 +135,11 @@ http://localhost:5000
 
 ---
 
+## 🏠 Home Page
+![Home Page](screenshots/home-page.png)
+
+---
+
 # 📸 Screenshots
 
 ## 🔑 Login Page
@@ -157,10 +162,6 @@ http://localhost:5000
 
 ---
 
-## 📊 Job Management Page
-![Job Management](screenshots/job-management.png)
-
----
 
 # 📈 Future Improvements
 - AI-based Job Recommendations
