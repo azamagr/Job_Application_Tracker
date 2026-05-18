@@ -184,4 +184,4 @@ Muhammad Azam
 
 # 📄 License
 
-This project was developed for educational and internship purposes under the TEYZIX CORE Internship Program.
+This project was developed as part of the Final Year Project (FYP) requirement for the BS Software Engineering program at Virtual University of Pakistan.
